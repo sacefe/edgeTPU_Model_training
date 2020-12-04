@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good</folder>
+	<filename>098.jpg</filename>
+	<path>/home/saguilar/coral/create_tfrecords/Tensorflow-Object-Detection-API-With-Custom-Dataset/images/screwBondingBox/train/good/098.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>143</ymin>
+			<xmax>903</xmax>
+			<ymax>892</ymax>
+		</bndbox>
+	</object>
+</annotation>
